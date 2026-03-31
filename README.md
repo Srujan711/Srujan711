@@ -1,16 +1,15 @@
-## Hi there 👋
+Hi, I'm Srujan Vithalani 👋
+Full-stack engineer who enjoys building things that actually work at scale.
 
-<!--
-**Srujan711/Srujan711** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+About Me
 
-Here are some ideas to get you started:
+🔭 Full Stack SWE at Webologix, building features for a platform with 10K+ daily users
+🌱 Currently building an Agentic Portfolio Manager that runs a multi-agent pipeline to generate daily rebalance recommendations with a collaborative quant+LLM signal bridge
+🎓 MS in Computer Science from Virginia Tech
+💼 Previously at Optum UHG — healthcare claims platform
+🤖 Interested in AI integration, backend performance, and systems that scale
+📬 Reach me at srujanvithlani@gmail.com or [LinkedIn](https://www.linkedin.com/in/srujan-vithalani/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My Portfolio
+
+Check out my portfolio website: https://srujanvithalani.com/
